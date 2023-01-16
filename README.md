@@ -8,3 +8,6 @@ Being a variant of OGRE, it uses the same system of plugins, DLLs and configurat
 It is not easy to use, but it is a good basis for development.
 
 https://www.freebasic.net/forum/viewtopic.php?t=31924
+
+
+![Imagen fb_ogre3d.png](https://github.com/jepalza/FB_OGRE3D/blob/main/fb_ogre3d.png)
